@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-numerology-background_23-2150051037.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720483200&semt=ais_user");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    height: 450px;
+    width: 650px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 8%;
+    background: linear-gradient(65deg,blue,khaki,beige);
+    margin-left: 450px;
+}
+#btn{
+    display: flex;
+    justify-content:center;
+    justify-content: space-evenly;
+}
+#block{
+    text-align: justify;
+    margin-left: 25%;
+    font-size: large;
+    color:brown;
+}
+h2{
+    text-align: center;
+    font-size:x-large;
+    text-decoration: underline;
+    color:teal;
+}
+h4{
+    text-align: center;
+    font-size:x-large;
+    color:black;
+}
+#count{
+    margin-left: 48%;
+    font-size: large;
+}
+#n1{
+    margin-left: 250px;
+    margin-top: 20px;
+    width: 20%;
+    height: 30px;
+}
+#b1{
+    width: 55px;
+    border-radius: 20%;
+    color:purple;
+    height: 30px;
+    width: 70px;
+}
+#b1:hover{
+    background: black;
+}
+b:hover{
+    color: blue;
+    font-size: large;
+    text-decoration: underline;
+}
